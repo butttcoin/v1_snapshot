@@ -30,7 +30,7 @@ If everything is alright, they will be given their new tokens, and they don't ha
 0x48143ec3aca8a255496e8ee7997591d3335abf5f - todo: see if connected to 0x063Ee5DBC9a9b54306B1C4009E06ae4b5D1B74B4, if yes, then legitimate. Reduce 10,208.68198469 tokens (reason 0xf642601372f654fb5cb11ccad77ecdb7b75ea7b0656c9531d8a9730ec3a1caaa 0xBUTT was reducing the amount of tokens by millions)
 
 
----------------SPECIAL TREATMENT-------------
+ SPECIAL TREATMENT 
 0xc931894d2b127a84b2b849fc2c0c29851c86ed0d - still under investigation
 0x48143ec3aca8a255496e8ee7997591d3335abf5f - still under investigation
 0x8a9c00b44bc68debd067fe83b5db4bb953833519 - still under investigation
@@ -40,7 +40,8 @@ If everything is alright, they will be given their new tokens, and they don't ha
 0xc931894d2b127a84b2b849fc2c0c29851c86ed0d - still under investigation
 0x615e3b6a61e8a5c9f3332752ef82517224857b32 - still under investigation
 0x3b0535c602078a22a9954209b3556549c4e5e987 - several sources, under investigation
-------------------------------
+ END OF SPECIAL TREATMENT 
+
 0xa54d3c09e34ac96807c1cc397404bf2b98dc4efb - to take a closer look
 0xa219fb3cfae449f6b5157c1200652cc13e9c9ea8 - special treatment
 0x615e3b6a61e8a5c9f3332752ef82517224857b32 - to take a closer look
