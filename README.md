@@ -22,47 +22,47 @@ This document describes how the ButtCoin will be distributed
 These are the accounts that had some movement of coins after the bug announcement was made. We need to see what happened there.
 If everything is alright, they will be given their new tokens, and they don't have to do anything, unless holding less than 100 tokens.
 
-0x09e99eecede08e25d39020f0e902cb9fa784e0e6	0.98 0xBUTT
-0x0e29304fee49a7f3bfb4bd0c0c3d574597dc2bdf	1,088.24290399 0xBUTT
-0x1a094dd551eb544ed49f336a78a5258039558003	98.00 0xBUTT
-0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8	940,973.45369384 0xBUTT
-0x1dadb16ceacb6d571350331a278b0fbe18076553	1,036,061.52455823 0xBUTT
-0x227469af1b32d99de627cc3cfce75e6a4e39ea39	98.00 0xBUTT
-0x388b017a69a505b761f4041547520998a1337fe3	2,537.62580745 0xBUTT
-0x4164173818309260af6664bafc3cd6f5c4e8bd98	329.18248806 0xBUTT
-0x48143ec3aca8a255496e8ee7997591d3335abf5f	839,397.46198469 0xBUTT
-0x4c1279fd1e4e65a3b07de39cada56acc1c64b4ca	291.77533942 0xBUTT
-0x51d3e8b8e2126f6afa2085fd171fb1104a826a81	98.9996 0xBUTT
-0x5814b08a1772f1321243a575c8a0556b954d4212	2,506.07671258 0xBUTT
-0x592878b048316cb98864b716c084ea9c418d7ed9	245.00 0xBUTT
-0x5ba31fb5b0af8d848b036101a0c8d20ed88e6dd7	389.51361172 0xBUTT
-0x60af68d5fe8a50310adc90d5510597229cb1167b	5,605,845.14419007 0xBUTT
-0x615e3b6a61e8a5c9f3332752ef82517224857b32	6.10048933 0xBUTT
-0x6ba4f7843128e06a47e317deb7f336763905ab96	306.62008244 0xBUTT
-0x6c0844f2737bb5986e3c95e89ccc2928bac4702a	684.98640658 0xBUTT
-0x70ce58c6e0506fa4488fbb124a850d982e7d8dfe	98.00 0xBUTT
-0x72c957bf4ec133a6f730491a872bb9aa97d97fc7	980,075.46 0xBUTT
-0x73084e4338a64d73180d039fae40a0e92b105f35	1,363.53420772 0xBUTT
-0x74301c53d79897faafae4c0a5b8519cba847234b	710.03850387 0xBUTT
-0x87dac5558eecad077f0bfd6f81b782bf1b66f0fd	2,156.00 0xBUTT
-0x9440bb53220c5264244b8d02d8df897d4290446e	506.63613603 0xBUTT
-0xa219fb3cfae449f6b5157c1200652cc13e9c9ea8	55,390.64902 0xBUTT
-0xa54d3c09e34ac96807c1cc397404bf2b98dc4efb	54,317.35755211 0xBUTT
-0xb1e0e594ad317a07fbe628962ec4157a35ae7cdf	471.18022912 0xBUTT
-0xba0b22526950df7b8c0965cc29431aa9e29cd5a1	384.58804385 0xBUTT
-0xc1b6b71a6c2ae306d3c7a52a0aa3b123cfcf93b8	2,539.38387164 0xBUTT
-0xc931894d2b127a84b2b849fc2c0c29851c86ed0d	6,845.87612579 0xBUTT
-0xd020bf04bbc0ed52b21f5d367770047725c80b54	10,770.00 0xBUTT
-0xd1ab10ea23535fb2a5c5395278634ff66caeb0c8	1.00 0xBUTT
-0xd266079de888e8d711a8a15511e74d1eb9a2d497	98.00 0xBUTT
-0xd500ff7c60a3d5cc6054075135dbf2f4bbeec116	297.6299204 0xBUTT
-0xd9b51ef90f18cb7644768caceebbaaf28cdca0a5	196.00 0xBUTT
-0xe3c655998d6d2ea0d16154e6886873faca78eb0d	10.15382186 0xBUTT
-0xe8f2e1a4d87987b24c0ad2bb392d6000a85a3552	196.00 0xBUTT
-0xe932b28a59ac2847e9c681210a5a9448556b2a22	12,520.182999 0xBUTT
-0xee66a8635bcff81226f8d0d6ded4cbd0fa78f718	2.9757992 0xBUTT
-0xf09dcc5874d232cd2ee969cd2939094a9a406a5c	95,307.24220335 0xBUTT
-0xfe150ab1a1f5aceaf1812fbd2b6b018d9df80ff6	10.302 0xBUTT
+0x72c957bf4ec133a6f730491a872bb9aa97d97fc7 - still under under investigation
+0xa219fb3cfae449f6b5157c1200652cc13e9c9ea8 - still under investigation
+0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8 - still under investigation
+0xf09dcc5874d232cd2ee969cd2939094a9a406a5c - still under investigation
+
+0x48143ec3aca8a255496e8ee7997591d3335abf5f - todo: see if connected to 0x063Ee5DBC9a9b54306B1C4009E06ae4b5D1B74B4, if yes, then legitimate. Reduce 10,208.68198469 tokens (reason 0xf642601372f654fb5cb11ccad77ecdb7b75ea7b0656c9531d8a9730ec3a1caaa 0xBUTT was reducing the amount of tokens by millions)
+
+
+---------------SPECIAL TREATMENT-------------
+0xc931894d2b127a84b2b849fc2c0c29851c86ed0d - still under investigation
+0x48143ec3aca8a255496e8ee7997591d3335abf5f - still under investigation
+0x8a9c00b44bc68debd067fe83b5db4bb953833519 - still under investigation
+0x8be03e399076c77a0e393ebea12817d75ed976c8 - still under investigation
+0xbd37f7f4ad5f2b5997a598e28815450c940036e0 - still under investigation
+0x994a8ff238af574e7e79d36eb1d590305e9e6ce0 - still under investigation
+0xc931894d2b127a84b2b849fc2c0c29851c86ed0d - still under investigation
+0x615e3b6a61e8a5c9f3332752ef82517224857b32 - still under investigation
+0x3b0535c602078a22a9954209b3556549c4e5e987 - several sources, under investigation
+------------------------------
+0xa54d3c09e34ac96807c1cc397404bf2b98dc4efb - to take a closer look
+0xa219fb3cfae449f6b5157c1200652cc13e9c9ea8 - special treatment
+0x615e3b6a61e8a5c9f3332752ef82517224857b32 - to take a closer look
+0x60af68d5fe8a50310adc90d5510597229cb1167b - might require a special treatment
+0xd020bf04bbc0ed52b21f5d367770047725c80b54 - interesting behaviour, needs a closer look
+0xe932b28a59ac2847e9c681210a5a9448556b2a22 - interesting behaviour, needs a closer look
+0x4c1279fd1e4e65a3b07de39cada56acc1c64b4ca - interesting behaviour, needs a closer look
+0xd500ff7c60a3d5cc6054075135dbf2f4bbeec116 - interesting behaviour, needs a closer look
+
+0x6ba4f7843128e06a47e317deb7f336763905ab96 - interesting behaviour, needs a closer look
+0x0e29304fee49a7f3bfb4bd0c0c3d574597dc2bdf - might require a special treatment
+
+
+DUST ACCOUNTS REQUIRE A CLOSER LOOK (where is it going?):
+0x09e99eecede08e25d39020f0e902cb9fa784e0e6
+0xd1ab10ea23535fb2a5c5395278634ff66caeb0c8
+0x615e3b6a61e8a5c9f3332752ef82517224857b32
+0xe3c655998d6d2ea0d16154e6886873faca78eb0d
+0xfe150ab1a1f5aceaf1812fbd2b6b018d9df80ff6
+0xee66a8635bcff81226f8d0d6ded4cbd0fa78f718
+
+
 
 # Blacklisted - scammer accounts
 
