@@ -3,6 +3,8 @@
 
 This document describes how the ButtCoin will be distributed
 
+- The file: account2.csv is the full list of token holders
+
 
 -Anyone who holds more than 100 tokens should be given the new version tokens automatically, as long as it doesn't cost more than $100 for an airdrop. Any remainder will be given an option for a self-drop.
 
