@@ -4,7 +4,7 @@
 This document describes how the ButtCoin will be distributed
 
 
--Anyone who holds more than 100 tokens should be given the new version tokens automatically, as long as it doesn't cost more than $100 for an airdrop.
+-Anyone who holds more than 100 tokens should be given the new version tokens automatically, as long as it doesn't cost more than $100 for an airdrop. Any remainder will be given an option for a self-drop.
 
 -Anyone who holds 2K or more of tokens will have to wait until their tokens are investigated. We were attacked by the scammers (see blacklisted accounts below).
 
