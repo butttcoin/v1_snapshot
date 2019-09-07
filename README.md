@@ -15,7 +15,6 @@ This document describes how the ButtCoin will be distributed
 - Anyone who holds between 90-100 tokens will be able to self-drop them.
 
 
-For a full list of holders, and a snapshot, see the accounts2.csv
 
 
 ## To investigate
