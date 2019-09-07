@@ -16,7 +16,8 @@ This document describes how the ButtCoin will be distributed
 For a full list of holders, and a snapshot, see the accounts2.csv
 
 
-##To investigate
+## To investigate
+
 These are the accounts that had some movement of coins after the bug announcement was made. We need to see what happened there.
 If everything is alright, they will be given their new tokens, and they don't have to do anything, unless holding less than 100 tokens.
 
